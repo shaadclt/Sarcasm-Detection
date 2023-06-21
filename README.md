@@ -31,10 +31,10 @@ Enter a text in the input field.
 Click the "Predict" button to see the prediction for sarcasm detection.
 
 ## Technologies Used
-Python
-Streamlit
-pandas
-numpy
+Python,
+Streamlit,
+pandas,
+numpy,
 scikit-learn
 
 ## Acknowledgments
