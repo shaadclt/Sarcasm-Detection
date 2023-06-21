@@ -13,13 +13,13 @@ To run the Sarcasm Detection app locally, follow these steps:
     ```
     
 2. Install the required packages:
-  ```bash
-    pip install -r requirements.txt
-   ```
+   ```bash
+       pip install -r requirements.txt
+      ```
    
 3. Download the Sarcasm dataset (Sarcasm.json) and place it in the project directory.
 4. Run the Streamlit app:
-  ```bash
+   ```bash
     streamlit run app.py
    ```
    
