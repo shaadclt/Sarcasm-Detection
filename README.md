@@ -2,10 +2,6 @@
 
 This is a web application built using Streamlit that performs sarcasm detection on input text.
 
-## Demo
-
-[Insert demo GIF or screenshot of the app here]
-
 ## Installation
 
 To run the Sarcasm Detection app locally, follow these steps:
